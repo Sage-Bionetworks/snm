@@ -1,0 +1,4 @@
+Run makefile in the trunk directory.
+It will create a compiled package in
+the top of the repository (so in the
+same directory as where SNM sits).

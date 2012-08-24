@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{Leek07}
+J.~T. Leek and J.D. Storey.
+\newblock Capturing heterogeneity in gene expression studies by surrogate
+  variable analysis.
+\newblock {\em PLos Genetics}, 3:e161, 2007.
+
+\bibitem{mecham2010}
+Mecham B.H~Nelson P.S. and Storey J.D.
+\newblock Supervised normalization of microarrays.
+\newblock {\em Bioinformatics}, 19:387--407, 2010.
+
+\bibitem{Storey05a}
+J.~D. Storey, W.~Xiao, J.~T. Leek, R.~G. Tompkins, and R.~W. Davis.
+\newblock Significance analysis of time course microarray experiments.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  102:12837--12842, 2005.
+
+\end{thebibliography}

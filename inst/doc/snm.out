@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Basic Usage}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Input}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Output}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Single Channel Normalization}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Double Channel Normalization}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Reference Design}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Preprocessed Normalization}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Diagnosing the snm output}{}% 10
+\BOOKMARK [1][-]{section.5}{Surrogate Variable Analysis}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Input}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Output}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Preprocessed Normalization}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.4}{Diagnosing the sva output}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Simulation Details}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Single Channel Data}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Double Channel Data}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Reference Design}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.4}{Preprocessed Data}{section.6}% 20
